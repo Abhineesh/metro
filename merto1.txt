@@ -1,0 +1,1 @@
+vlan is a logically grouping of network users and resource are  connected to the administratively defiend ports on a layer2 switches
